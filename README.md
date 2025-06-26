@@ -16,7 +16,7 @@ src/
 └── lib/                # Utility functions
 ```
 
-# dev </> maxim sv
+# how to start in terminal localhost
 
 npm install
 npm run dev
