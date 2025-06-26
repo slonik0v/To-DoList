@@ -18,5 +18,8 @@ src/
 
 # how to start in terminal localhost
 
-npm install
+[mainpage](https://github.com/user-attachments/assets/b5982ee0-3a2f-4c7d-92fe-03115e14ba55)
+
 npm run dev
+
+npm install!
