@@ -22,4 +22,4 @@ src/
 
 npm run dev
 
-npm install!
+npm install
